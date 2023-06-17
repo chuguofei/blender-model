@@ -8,3 +8,7 @@
 # arephone
 
 ![](https://github.com/chuguofei/blender-model/blob/main/images/arephone.png)
+
+# cup
+
+![](https://github.com/chuguofei/blender-model/blob/main/images/cup.png)
